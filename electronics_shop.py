@@ -14,7 +14,7 @@ def getMoneySpent(keyboards, drives, b):
     else:
         for i in keyboards:
             for j in drives:
-                if (i+j)<ms and (i+j)<=b:
+                if (i+j)>ms and (i+j)<=b:
                     ms=i+j 
     return ms  
        
