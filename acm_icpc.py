@@ -7,6 +7,6 @@ comb=[]
 for i in range(n):
     for j in range(i,n):
         comb.append(bin(int(l[i],2)|int(l[j],2)).count('1'))
-print(max(comb),comb)
+print(max(comb))
 print(comb.count(max(comb)))
 
