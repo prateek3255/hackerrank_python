@@ -1,4 +1,4 @@
-
+#https://www.hackerrank.com/challenges/bear-and-steady-gene/problem
 def contains(gene,remove):
     for i in remove:
         if gene.count(i)<remove[i]:
