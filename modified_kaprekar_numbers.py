@@ -29,4 +29,5 @@ if __name__ == '__main__':
     q = int(input())
 
     kaprekarNumbers(p, q)
+    
 
