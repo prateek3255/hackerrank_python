@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19059ff0-7c5a-4763-8e79-adda83717843" name="Default" comment="Added new problem">
-      <change afterPath="$PROJECT_DIR$/time_in_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lisa_workbook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modified_kaprekar_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/modified_kaprekar_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +21,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="py" value="995" />
+          <entry key="py" value="1350" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="42" />
-          <entry key="Python" value="995" />
+          <entry key="Python" value="1350" />
         </counts>
       </usages-collector>
     </session>
@@ -60,14 +59,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time_in_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="e#16#27#0" expanded="true" />
-                <marker date="1541655137156" expanded="true" signature="668:1437" ph="..." />
+                <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lisa_workbook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="e#160#171#0" expanded="true" />
+                <marker date="1541777591710" expanded="true" signature="282:702" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,6 +102,7 @@
         <option value="$PROJECT_DIR$/crossword_puzzle.py" />
         <option value="$PROJECT_DIR$/modified_kaprekar_numbers.py" />
         <option value="$PROJECT_DIR$/time_in_words.py" />
+        <option value="$PROJECT_DIR$/lisa_workbook.py" />
       </list>
     </option>
   </component>
@@ -134,7 +146,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.time_in_words">
+  <component name="RunManager" selected="Python.lisa_workbook">
+    <configuration name="lisa_workbook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lisa_workbook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="modified_kaprekar_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,9 +213,11 @@
     <list>
       <item itemvalue="Python.modified_kaprekar_numbers" />
       <item itemvalue="Python.time_in_words" />
+      <item itemvalue="Python.lisa_workbook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lisa_workbook" />
         <item itemvalue="Python.time_in_words" />
         <item itemvalue="Python.modified_kaprekar_numbers" />
       </list>
@@ -205,11 +240,19 @@
       <option name="project" value="LOCAL" />
       <updated>1541317719749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new problem">
+      <created>1541655423576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541655423576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -251,11 +294,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/time_in_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <marker date="1541655137156" expanded="true" signature="668:1437" ph="..." />
+            <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lisa_workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#160#171#0" expanded="true" />
+            <marker date="1541777591710" expanded="true" signature="282:702" ph="..." />
           </folding>
         </state>
       </provider>
