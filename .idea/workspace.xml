@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19059ff0-7c5a-4763-8e79-adda83717843" name="Default" comment="Medium problem added">
+      <change afterPath="$PROJECT_DIR$/flipping_matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +21,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="py" value="2580" />
+          <entry key="py" value="2620" />
           <entry key="txt" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="62" />
-          <entry key="Python" value="2580" />
+          <entry key="Python" value="2620" />
         </counts>
       </usages-collector>
     </session>
@@ -59,18 +60,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/time_in_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lisa_workbook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -78,6 +67,18 @@
               <folding>
                 <element signature="e#160#171#0" expanded="true" />
                 <marker date="1541777591710" expanded="true" signature="282:702" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time_in_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,14 +125,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/larry's_array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
                 <marker date="1544196045730" expanded="true" signature="308:1030" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flipping_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,6 +172,7 @@
         <option value="$PROJECT_DIR$/new_year_chaos.py" />
         <option value="$PROJECT_DIR$/bonetrousle.py" />
         <option value="$PROJECT_DIR$/larry's_array.py" />
+        <option value="$PROJECT_DIR$/flipping_matrix.py" />
       </list>
     </option>
   </component>
@@ -202,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.larry's_array">
+  <component name="RunManager" selected="Python.flipping_matrix">
     <configuration name="bonetrousle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,6 +230,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonetrousle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flipping_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flipping_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,41 +322,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_in_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hackerrank_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_in_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.time_in_words" />
       <item itemvalue="Python.lisa_workbook" />
       <item itemvalue="Python.new_year_chaos" />
       <item itemvalue="Python.bonetrousle" />
       <item itemvalue="Python.larry's_array" />
+      <item itemvalue="Python.flipping_matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.flipping_matrix" />
         <item itemvalue="Python.larry's_array" />
         <item itemvalue="Python.bonetrousle" />
         <item itemvalue="Python.new_year_chaos" />
         <item itemvalue="Python.lisa_workbook" />
-        <item itemvalue="Python.time_in_words" />
       </list>
     </recent_temporary>
   </component>
@@ -363,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544196174132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Medium problem added">
+      <created>1544196327494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544196327494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -405,16 +426,6 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1541319710861" expanded="true" signature="276:574" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time_in_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
           </folding>
         </state>
       </provider>
@@ -465,11 +476,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/larry's_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
             <marker date="1544196045730" expanded="true" signature="308:1030" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_in_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1541655395302" expanded="true" signature="612:1391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flipping_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
